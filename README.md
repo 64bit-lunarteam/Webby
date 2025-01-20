@@ -1,5 +1,6 @@
 # Webby ======
 Webby is a discord webhook controller created by soupcan7. If you can find the link to a webhook, you can have full control over what it says or does... easy!
+This version, Webby Clean Edition, is a project I made that cleans up the code of Webby, tweaks the UI, and fixes bugs. It is the definitive version of webby as of now, and is made by Venom.
 
 # Preview ======
 ![preview](github-preview.png)
